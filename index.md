@@ -1,4 +1,4 @@
-# Welcome!
+> Welcome!
 This page will be updated with links to my lab reports.
 ---
 ## Lab Report 1
