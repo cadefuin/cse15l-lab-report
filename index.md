@@ -1,6 +1,3 @@
 # Welcome!
-This page will be updated with links to my CSE 15L lab reports.
----
-> ## Lab Report 1
-*1/10/2024*
-[Document](https://docs.google.com/document/d/1hvAUKuoFcqgeIkgWaglfq0bGvLsJZb7NZqq-cvxOgLI/edit?usp=sharing)
+Lab reports will be added below throughout the quarter.
+[Lab Report 1](https://cadefuin.github.io/cse15l-lab-report/report1.html)
