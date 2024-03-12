@@ -4,7 +4,7 @@ This lab navigates a debugging scenario with the Week 6/9 grading script and ref
 ## Part 1: Debugging Scenario
 
 1. Original post from a student
-  > ### grep -o not counting occurrences properly <br>
+  > ### grep -o not counting occurrences properly
   > To calculate the grade, I am trying to count the number of times `.` and `E` appear in the JUnit error message. This is my `grade.sh` script: <br> <br>
   > ![Screenshot of grade.sh](cse15l-report-5-ss-1.png) <br> <br>
   > However, the score does not match the number of tests and fails. <br> <br>
@@ -15,7 +15,7 @@ This lab navigates a debugging scenario with the Week 6/9 grading script and ref
   > It appears bash is interpreting `'.'` as a special character instead of a literal period. Try using the backslash `'\.'` to escape it.
 
 3. Student trying TA suggestion <br>
-  The updated `grade.sh`: <br> <br>
+  <br> The updated `grade.sh`: <br> <br>
   ![Screenshot of new grade.sh](cse15l-report-5-ss-3.png) <br> <br>
   The new output: <br> <br>
   ![Screenshot of new output](cse15l-report-5-ss-4.png) <br> <br>
